@@ -46,7 +46,10 @@ Here we will be also having some action packed videos and live streams where we 
 
 ### There WE Go guys, wrapping up this orientation doc , making you familiar with upcoming course module... , lessss go TON...
 
-Connect with me for any queries or assistance on my telegram community here :-
-	[TON-Learners-JAM]( https://t.me/+wfBAW0D8kX5jZGI1)
+Connect with me for any queries or assistance on my telegram community here :
+
+[TON-Learners-JAM]( https://t.me/+wfBAW0D8kX5jZGI1)
+
 And subscribe to Our Youtube Channel for upcoming course videos...
-	[Fuzzy-Dev...](https://www.youtube.com/@Jenu_1235)
+
+[Fuzzy-Dev...](https://www.youtube.com/@Jenu_1235)
